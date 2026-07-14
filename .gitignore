@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+*.log
+.DS_Store
+uploads/
+.vscode/
+.idea/
+.cursor/
+.agent/
+agent-transcripts/
+*.canvas.tsx
