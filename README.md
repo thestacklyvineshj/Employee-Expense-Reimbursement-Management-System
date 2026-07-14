@@ -157,16 +157,25 @@ Send JWT as: `Authorization: Bearer <token>`
 
 Statuses: `pending` | `approved` | `rejected` | `cancelled`
 
-## Screenshots (for submission)
+## Screenshots
 
-Capture and attach:
+### Login Page
+![Login page](docs/screenshots/01-login.png)
 
-1. Login page  
-2. Employee dashboard  
-3. Expense submission  
-4. Manager approval page  
-5. Admin dashboard  
-6. Reports page  
+### Employee Dashboard
+![Employee dashboard](docs/screenshots/02-employee-dashboard.png)
+
+### Expense Submission
+![Expense submission](docs/screenshots/03-expense-submission.png)
+
+### Manager Approval Page
+![Manager approvals](docs/screenshots/04-manager-approvals.png)
+
+### Admin Dashboard
+![Admin dashboard](docs/screenshots/05-admin-dashboard.png)
+
+### Reports Page
+![Admin reports](docs/screenshots/06-admin-reports.png)
 
 ## Demo Video Outline (5–7 min)
 
